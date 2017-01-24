@@ -1,4 +1,4 @@
-# My Poetry
+# My Poetry // Moja poezija
 
 * [Haiku poetry (english)](https://github.com/meeroslav/_poetry/blob/master/haiku_en.md)
 * [Haiku poezija (serbian)](https://github.com/meeroslav/_poetry/blob/master/haiku_rs.md)

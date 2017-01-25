@@ -2,6 +2,7 @@
 
 ## Analiza
 
+```
 Mislima pratiš prste po skrivenom sloju
 Soba oscilira u beskrajnoj petlji
 
@@ -18,9 +19,11 @@ dve funkcije u zajedničkoj sinusoidi.
 Dok monotono konvergiramo u supremum
 vidim,
 naša determinanta je ipak nula?!
+```
 
 ## Red za studentski dom
 
+```
 Žuto
 Samo žuto.
 Glupa mešavina braon i oker. I crne.
@@ -41,9 +44,11 @@ I poneki kiseli osmeh.
 
 …
 Mrzim septembar
+```
 
 ## Prokrastinacija akrizije
 
+```
 levo... ništa
 desno... ništa
 opet...
@@ -68,9 +73,11 @@ na tvojoj raskrsnici nema semafora
 i putevi se izvijaju u nedogled
 odluči se!
 opet…
+```
 
 ## Uspavanka za...
 
+```
 osvetljene senke uvek bole 
 kao i sati izgubljeni u njima
 
@@ -81,9 +88,11 @@ pusti utopiju da plovi bez tebe.
 
 tebe sad čekaju arena sna i mesec ceo
 i poneko parče jutarnje rose
+```
 
 ## Voli me, ne voli me
 
+```
 sakupljene zvezde
 prosipam po stolu
 dosledno i pažljivo
@@ -93,5 +102,5 @@ gledam slike iz prošlosti
 ti bez mene
 ja bez tebe
 prostranstva daleka
-
+```
 

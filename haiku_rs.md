@@ -101,3 +101,15 @@ Astrologija -
 Volim dodir tvog smeha
 Alternativa?
 ```
+
+```
+Praznina vrišti
+Izgubljene su slike
+Blede zauvek
+```
+
+```
+Odroni parče
+U bilo kom deliću
+Naći ćeš sebe
+```

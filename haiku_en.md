@@ -41,3 +41,27 @@ I open and let
 Nocturnal window to bring
 Kernel of my dreams.
 ```
+
+```
+Wide awaken now
+let your razors crawl my skin
+cut me wide open
+```
+
+```
+Find me underneath
+Sweep your disbelief, I'm your
+Desolated voice
+```
+
+```
+Look into my eyes
+Deep inside the abyss dwells
+Scout forever
+```
+
+```
+Separations merged
+Contrapositions agreed
+We have unified
+```
